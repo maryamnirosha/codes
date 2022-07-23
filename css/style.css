@@ -1,0 +1,102 @@
+
+body{
+  margin:0px;
+  text-align: center;
+
+}
+.top-container{
+
+  height: 700px;
+  width: 100%;
+  background-image: url(../images/bg5.jpg);
+  background-size: cover;
+}
+.middle-container{
+
+}
+.bg{
+  background-color: black;
+  color: #18978F;
+}
+.contact-me{
+  padding: 10px;
+  color: ##;
+}
+.bottom-container{
+padding:15px;
+}
+
+.navbar{
+  position: fixed;
+  width: 100%;
+  text-align: right;
+  padding-top: 30px;
+  height: 60px;
+  background-color:#18978F;
+  opacity: 0.3;
+}
+.span{
+  padding-right: 50px;
+  color: white;
+
+}
+h1{
+  margin-left: 80px;
+  margin-top: 0;
+  text-align: left;
+  padding-top: 150px;
+  font-family: 'Satisfy', cursive;
+  color: white;
+  font-size: 100px;
+
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pra{
+  margin-top: 0;
+  text-align: left;
+  margin-left: 280px;
+  font-size: 20px;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+}
+.pra3{
+  width: 60%;
+  margin: 50px auto;
+  text-align: justify;
+  line-height: 2;
+}
+a{
+  text-decoration: none;
+  color: white;
+
+}
+.img1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.img2{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+
+.hr-line{
+  border-style: dotted none none;
+  border-color: #C9BBCF ;
+  width: 3%;
+  border-width: 7px;
+
+}
+.image{
+  width: 30px;
+  height: 30px;
+}
